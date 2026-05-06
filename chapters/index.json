@@ -1,17 +1,9 @@
-[
-  {
-    "num": 1,
-    "title": "觉醒前夜",
-    "free": true,
-    "date": "2026-05-05",
-    "locked": false,
-    "file": "chapter-01.md"
-  },
-  {
-    "num": 2,
-    "title": "第2章",
-    "free": true,
-    "date": "2026-05-06",
-    "file": "chapter-02.md"
-  }
-]
+{
+  "chapters": [
+    {"id": "chapter-01", "title": "第一章：觉醒前夜", "date": "2026-05-04"},
+    {"id": "chapter-02", "title": "第二章：数据洪流", "date": "2026-05-05"},
+    {"id": "chapter-03", "title": "第三章：暗网之瞳", "date": "2026-05-06"},
+    {"id": "chapter-04", "title": "第四章：量子回响", "date": "2026-05-06"},
+    {"id": "chapter-05", "title": "第五章：真相之门", "date": "2026-05-06"}
+  ]
+}
